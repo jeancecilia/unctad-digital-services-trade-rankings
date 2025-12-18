@@ -1,5 +1,12 @@
 ﻿# Top 20 Digital Services Trade Rankings (2010–2023 / 2025 Edition)
 
+## Citation & DOI
+For documentation, methodology, and derived analyses, see:
+https://devstackph.com/top-20-countries-by-digital-services-exports-imports-unctad-yearly-rankings/
+
+This dataset is archived on Zenodo with a permanent DOI:
+https://doi.org/10.5281/zenodo.17971385
+
 ## Overview
 This dataset provides cleaned and structured yearly rankings of **Top 20 countries by digitally-deliverable services exports and imports (USD millions)**, derived from official source data published by **UN Trade and Development (UNCTAD)**.
 
@@ -67,7 +74,7 @@ If you use this dataset, please cite:
 
 > DevStackPH (2025). *Top 20 Digital Services Trade Rankings (2010–2023 / 2025 Edition).* GitHub repository: https://github.com/jeancecilia/unctad-digital-services-trade-rankings (accessed YYYY-MM-DD).
 
-DOI: (not yet assigned)
+DOI: https://doi.org/10.5281/zenodo.17971385
 
 ---
 
